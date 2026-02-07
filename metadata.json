@@ -1,0 +1,7 @@
+{
+  "name": "Lahore Garments AR Commerce",
+  "description": "A high-end, mobile-first fashion platform featuring 3D product visualization, AR virtual try-on, and a robust admin management system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
